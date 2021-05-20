@@ -23,11 +23,11 @@ p {
   box-sizing: border-box;
 }
 body {
-  margin: 40px;
+  margin: 30px;
   padding: 10px;
   box-sizing: border-box;
 }
 .column {
-  width: 50%;
+  width: 0%
   float: left;
 }
